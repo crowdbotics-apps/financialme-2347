@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT financialme_2347.wsgi:application
